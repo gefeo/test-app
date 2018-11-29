@@ -1,0 +1,28 @@
+{
+  "products": [
+    { "id": 1, 
+      "title": "Product 1", 
+      "image": "http://localhost:8080/src/assets/product1.png",
+      "description": "Altera sententia est, quae definit amiciti." },
+    { "id": 2, 
+      "title": "Product 2", 
+      "image": "http://localhost:8080/src/assets/product2.png",
+      "description": "ribus officiis ac voluntatibus. Hoc quidem." },
+    { "id": 3, 
+      "title": "Product 3", 
+      "image": "http://localhost:8080/src/assets/product3.png",
+      "description": "Divitior mihi et affluentior videtur esse vera amicitia nec observare restricte." },
+    { "id": 4, 
+      "title": "Product 4", 
+      "image": "http://localhost:8080/src/assets/product4.png",
+      "description": "Ne plus reddat quam acceperit; neque enim verendum est, ne quid excidat." },
+    { "id": 5, 
+      "title": "Product 5", 
+      "image": "http://localhost:8080/src/assets/product5.png",
+      "description": "aut ne quid in terram defluat, aut ne plus aequo quid in amicitiam congeratur." },
+    { "id": 6, 
+      "title": "Product 6", 
+      "image": "http://localhost:8080/src/assets/product6.png",
+      "description": "Numne, si Coriolanus habuit amicos, ferre contra patriam." }
+  ]
+}
